@@ -1,0 +1,5 @@
+/.bundle/
+/vendor/
+/.idea/
+Gemfile.lock
+*.iml
